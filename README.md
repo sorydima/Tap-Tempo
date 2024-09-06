@@ -1,5 +1,37 @@
 # Tap-Tempo
 
+## Project Description
+Tap-Tempo is a game where the player must tap the screen or use the controller to maintain a set tempo. The game develops reaction and a sense of rhythm. It is suitable for players of all ages.
+
+![1](https://github.com/user-attachments/assets/1de6773c-30c6-45e2-8262-e706fcccc487)
+![2](https://github.com/user-attachments/assets/d7e7147b-6d32-42cf-b35b-ddf6408d7eb9)
+![3](https://github.com/user-attachments/assets/d494f5c3-b773-49b6-b467-5ed999ddf5d3)
+![4](https://github.com/user-attachments/assets/725d6d96-c3dd-4d5e-a29c-b3a94e206627)
+![5](https://github.com/user-attachments/assets/7a2fb924-8fae-421b-be40-f1c3a0ae9f28)
+
+## Gameplay
+The player must maintain a set tempo by tapping the screen or using the controller. The tempo can change unexpectedly, which complicates the player's task. The game ends when the player fails to tap the screen or perform an action with the controller at the right moment.
+
+## How to Play
+1. Download the Tap-Tempo game.
+2. Launch the game.
+3. Tap the screen or use the controller to maintain the tempo displayed on the screen.
+4. If you keep up with the set tempo, then move on to the next difficulty level.
+5. The game ends if you fail to tap the screen or perform the required action with the controller.
+6. You can start the game over or try to complete it from a higher difficulty level.
+
+The game is available for download on the developer's official website. You can also install it through the application manager for Android or iOS.
+
+Note: a version of the game for mobile devices is in development.
+
+## System requirements
+To play on a computer, you need the Windows or macOS operating system. To play on a mobile device, you need Android 7.0 or higher (for Android) or iOS 11.0 or higher (for iOS).
+
+## Authorship
+The author of the project is Sorokin Dmitry Olegovich @sorydima.
+
+If you have any questions or problems using the project, you can contact the author by email or through social networks.
+
 🎮 Enter the world of hyper-casual gaming with "Tap Tempo" – an addictive mobile experience that's not just a game but an opportunity for developers to shape their own hit with this Unity source code.
 
 🕹️ "Tap Tempo" offers a delightful blend of simplicity and challenge. With this Unity source code, you hold the key to creating a captivating mobile game. Customize and tweak the gameplay to fit your vision, turning the tapping sensation into a unique and engaging experience.

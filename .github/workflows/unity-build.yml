@@ -1,0 +1,33 @@
+name: Unity Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    name: Build Unity Project
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Cache Library Folder
+      uses: actions/cache@v4
+      with:
+        path: Library
+        key: Library-${{ runner.os }}-${{ hashFiles('**/*.cs') }}
+        restore-keys: |
+          Library-${{ runner.os }}-
+
+    - name: Install Unity Hub CLI
+      run: |
+        sudo apt-get update
+        sudo apt-get install unityhub
+
+    - name: Build Project
+      run: |
+        echo "🔨 Тут обычно запускают headless билд через Unity CLI"
